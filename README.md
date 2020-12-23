@@ -4,7 +4,7 @@
 
 ## :globe_with_meridians: 找到我
 
-- 个人网站：https://xunhuan.me
+- 个人网站：https://xunhuan.me 、 https://lxh.io
 - gitee：https://gitee.com/best_lxh
 - 私有Git：https://gitee.ltd
 - 掘金主页：https://juejin.im/user/3157453122832926
